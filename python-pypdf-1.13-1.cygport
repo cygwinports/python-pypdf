@@ -1,0 +1,6 @@
+inherit distutils
+
+
+HOMEPAGE="http://pybrary.net/pyPdf/"
+SRC_URI="http://pybrary.net/pyPdf/pyPdf-${PV}.tar.gz"
+SRC_DIR="pyPdf-${PV}"

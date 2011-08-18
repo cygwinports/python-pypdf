@@ -1,0 +1,7 @@
+category: Python
+requires: python
+sdesc: "Pure Python PDF library"
+ldesc: "A Pure-Python library built as a PDF toolkit. It is capable of 
+extracting document information, splitting and merging documents page by 
+page, cropping and merging pages, and encrypting and decrypting PDF 
+files."
