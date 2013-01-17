@@ -1,0 +1,13 @@
+inherit distutils
+
+NAME="python-pypdf"
+VERSION=1.13
+RELEASE=2
+CATEGORY="Python"
+SUMMARY="Pure Python PDF library"
+DESCRIPTION="A Pure-Python library built as a PDF toolkit. It is capable of
+extracting document information, splitting and merging documents page by page,
+cropping and merging pages, and encrypting and decrypting PDF files."
+HOMEPAGE="http://pybrary.net/pyPdf/"
+SRC_URI="http://pybrary.net/pyPdf/pyPdf-${PV}.tar.gz"
+SRC_DIR="pyPdf-${PV}"
